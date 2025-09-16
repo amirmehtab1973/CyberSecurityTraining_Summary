@@ -6,3 +6,6 @@ torch
 docx2txt
 python-docx
 PyPDF2
+markdown-it-py==3.0.0  # Compatible version
+mdurl==0.1.2
+rich==13.7.1
